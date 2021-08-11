@@ -1,4 +1,4 @@
-Hi there! I’m Alicia Mathew (@alicia-mathew)
+Hi there! I’m Alicia Mathew. 
 I’m currently a 3rd year student at the University of Waterloo studying Computational Mathematics.
 Here are some of my projects...
 
