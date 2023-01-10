@@ -1,5 +1,5 @@
 Hi there! I’m Alicia Mathew. 
-I’m currently a 3rd year student at the University of Waterloo studying Computational Mathematics.
+I’m currently a 4th year student at the University of Waterloo studying Computational Mathematics.
 Here are some of my projects...
 
 <!---
