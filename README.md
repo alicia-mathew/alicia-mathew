@@ -1,4 +1,4 @@
-Hello! :) 👋🏽 I just graduated from the University of Waterloo with a Bachelor in Computational Math 🤖 & a minor in Computing and Psychology! 🧠
+Hello! :) 👋🏽 I graduated from the University of Waterloo last August with a Bachelor of Mathematics in Computational Math 🤖 & minors in Computing and Psychology! 🧠
 
 During my undergraduate degree, I’ve discovered a deep passion for brain health and have been researching new ways we can employ tech to improve and better care for our brains :) I love investigating new therapies that combine computational and neuroscientific methods to enhance our understanding of our brains and improve overall cognition. 📈
 
